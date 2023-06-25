@@ -101,9 +101,12 @@ namespace ConverterTestProject
         //}
 
 
+        //Commit feature 1
+
         public void Dispose()
         {
             //Nettoyage des ressources de la classe
+
         }
     }
 }
