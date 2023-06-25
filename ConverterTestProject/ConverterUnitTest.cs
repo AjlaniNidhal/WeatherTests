@@ -104,6 +104,7 @@ namespace ConverterTestProject
         public void Dispose()
         {
             //Nettoyage des ressources de la classe
+            //Commit fearture 2
         }
     }
 }
