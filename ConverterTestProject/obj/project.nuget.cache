@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PAKHc4bZegj0iyQVkkX0DsRdFahAUIHR1djho3mmD6yu3+d/3jG8N7rnII4mkH9XUFZ0e/u2Mwl5oVywnZnGjQ==",
+  "dgSpecHash": "sDIoQ2ZDhk2Z14CBsweaAmoxoEPHZk/n17JG9tdxBHH2tbMwl/1ZmG6Av0mmm2hIwpkVyXhUuSwBmXMOz48/mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nidhal\\source\\repos\\ConverterTestProject\\ConverterTestProject.csproj",
+  "projectFilePath": "C:\\Users\\Nidhal\\source\\repos\\ConverterVS22\\ConverterTestProject\\ConverterTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nidhal\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Nidhal\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

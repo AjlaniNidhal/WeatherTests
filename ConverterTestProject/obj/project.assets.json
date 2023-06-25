@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nidhal\\source\\repos\\ConverterTestProject\\ConverterTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Nidhal\\source\\repos\\ConverterVS22\\ConverterTestProject\\ConverterTestProject.csproj",
       "projectName": "ConverterTestProject",
-      "projectPath": "C:\\Users\\Nidhal\\source\\repos\\ConverterTestProject\\ConverterTestProject.csproj",
+      "projectPath": "C:\\Users\\Nidhal\\source\\repos\\ConverterVS22\\ConverterTestProject\\ConverterTestProject.csproj",
       "packagesPath": "C:\\Users\\Nidhal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nidhal\\source\\repos\\ConverterTestProject\\obj\\",
+      "outputPath": "C:\\Users\\Nidhal\\source\\repos\\ConverterVS22\\ConverterTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5565,8 +5565,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Nidhal\\source\\repos\\ConverterProject\\ConverterProject.csproj": {
-              "projectPath": "C:\\Users\\Nidhal\\source\\repos\\ConverterProject\\ConverterProject.csproj"
+            "C:\\Users\\Nidhal\\source\\repos\\ConverterVS22\\ConverterProject\\ConverterProject.csproj": {
+              "projectPath": "C:\\Users\\Nidhal\\source\\repos\\ConverterVS22\\ConverterProject\\ConverterProject.csproj"
             }
           }
         }
