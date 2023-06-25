@@ -1,0 +1,12 @@
+C:\Users\Nidhal\source\repos\ConverterProject\bin\Debug\net7.0\ConverterProject.deps.json
+C:\Users\Nidhal\source\repos\ConverterProject\bin\Debug\net7.0\ConverterProject.dll
+C:\Users\Nidhal\source\repos\ConverterProject\bin\Debug\net7.0\ConverterProject.pdb
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.csproj.AssemblyReference.cache
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.AssemblyInfoInputs.cache
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.AssemblyInfo.cs
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.csproj.CoreCompileInputs.cache
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.dll
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\refint\ConverterProject.dll
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ConverterProject.pdb
+C:\Users\Nidhal\source\repos\ConverterProject\obj\Debug\net7.0\ref\ConverterProject.dll
